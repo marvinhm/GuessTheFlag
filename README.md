@@ -9,7 +9,6 @@ A quick application created to practice using Swift and SwiftUI
  
 ## Screenshots
 ![alt text](https://github.com/marvinhm/GuessTheFlag/blob/master/guess_img1.png?raw=true)
-![alt text](https://github.com/marvinhm/GuessTheFlag/blob/master/guess_img2.png?raw=true)
 
 
 ## Tech/framework used
