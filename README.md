@@ -1,5 +1,5 @@
 # GuessTheFlag
-A game where palyers are tested on how well they know the different flags of the world.
+A game where players are tested on how well they know the different flags of the world.
 
 ## Motivation
 A quick application created to practice using Swift and SwiftUI
