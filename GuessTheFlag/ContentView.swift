@@ -68,6 +68,7 @@ struct ContentView: View {
                 }
                 Spacer()
             }
+            .padding(.top, 30.0)
             .alert(isPresented: $showingScore) {
                 Alert(title: Text(scoreTitle), message: Text("Your score is \(userScore)"), dismissButton: .default(Text("Continue")) {
                     self.askQuestion()
